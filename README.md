@@ -47,11 +47,13 @@ This repository is organized into structured folders and markdown tutorials that
 
 ## 📸 Sneak Peek
 
-![Docker Containers](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZfE89zqZ2kSsp__u7cPfCKEdUZyZfEGqWQ&s)
-
-![Terraform AWS](https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8c02rvas5c9lb7hqltwf.png)
-
-![Jenkins Pipeline](https://kubedemy.io/wp-content/uploads/2023/06/4418c3cd93a28e984510f8d25a6fd815.png)
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZfE89zqZ2kSsp__u7cPfCKEdUZyZfEGqWQ&s" alt="Docker Containers">
+  <br><br>
+  <img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8c02rvas5c9lb7hqltwf.png" alt="Terraform AWS">
+  <br><br>
+  <img src="https://kubedemy.io/wp-content/uploads/2023/06/4418c3cd93a28e984510f8d25a6fd815.png" alt="Jenkins Pipeline">
+</div>
 
 ---
 
@@ -78,11 +80,13 @@ This is not just a project dump. It's my **learning journey**, shaped to help ot
 **Arjun Dixit**
 > Passionate about DevOps, Automation, and Cloud Engineering ☁️🐳🚀
 
-📧 arjundixit.dev@gmail.com  
-🔗 [GitHub](https://github.com/arjundixit18) | [LinkedIn](https://www.linkedin.com/in/arjundixit18)  
+📧 dixitarjun249@gmail.com  
+🔗 [GitHub](https://github.com/arjundixit18) | [LinkedIn](https://www.linkedin.com/in/arjun-dixit/)  
 
 ---
 
 ## ⭐️ Don’t forget to star this repo if you find it helpful!
 
-![Thank You](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU4Y2hyNWVtMmxxNzh4Nmc2d2M5cG50eGM5b2FwM3ZibjJ5dmhzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WoD6JZnwap6s8/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" alt="Thank You">
+</div>
