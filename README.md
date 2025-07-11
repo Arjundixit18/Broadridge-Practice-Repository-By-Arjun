@@ -6,8 +6,6 @@ Welcome to the **Broadridge-Practice-Repository-By-Arjun** – a one-stop hub wh
 
 ---
 
-![Broadridge Banner](https://www.broadridge.com/-/media/images/broadridge/homepage/home-hero/global-tech-banner.jpg)
-
 ---
 
 ## 📁 Repository Structure
@@ -49,11 +47,11 @@ This repository is organized into structured folders and markdown tutorials that
 
 ## 📸 Sneak Peek
 
-![Docker Containers](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*QQGTfSm-xeAjVXa74Fk6mQ.png)
+![Docker Containers](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZfE89zqZ2kSsp__u7cPfCKEdUZyZfEGqWQ&s)
 
-![Terraform AWS](https://user-images.githubusercontent.com/24206563/146389204-bf229b7b-f1dc-4c9d-a67e-7a66bb517fe5.png)
+![Terraform AWS](https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8c02rvas5c9lb7hqltwf.png)
 
-![Jenkins Pipeline](https://plugins.jenkins.io/images/pipeline/blueocean/blueocean-pipeline.png)
+![Jenkins Pipeline](https://kubedemy.io/wp-content/uploads/2023/06/4418c3cd93a28e984510f8d25a6fd815.png)
 
 ---
 
