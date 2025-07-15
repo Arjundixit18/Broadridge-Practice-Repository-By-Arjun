@@ -3,6 +3,7 @@
 ---
 
 
+
 ## 🐳 What is Docker?
 Docker is an open-source **container management platform** that simplifies the process of developing, shipping, and running applications. It packages applications into lightweight, portable containers.
 
