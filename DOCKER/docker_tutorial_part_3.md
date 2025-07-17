@@ -2,6 +2,7 @@
 
 ---
 
+
 ## 📦 Docker Images – Behind the Scenes
 
 ### What is an Image?
