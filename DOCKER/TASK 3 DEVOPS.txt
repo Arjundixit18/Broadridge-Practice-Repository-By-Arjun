@@ -1,0 +1,38 @@
+Backend team needs a MongoDB database running inside Docker with:
+
+1. Container name: mongo_container 
+
+2. Port: 27018(host) mapped to 27017(container)
+
+3. Volume name: mongo_data_volume to persist DB files
+
+4. Network : backend_net 
+
+----------------------------------------------------------------------------------
+docker volume create mongo_data_volume
+
+docker network create backend_net
+
+docker run -d --name mongo_container   -p 27018:27017  -v mongo_data_volume:/data/db  --network backend_net  mongo
+
+docker volume ls
+
+docker network inspect backend_net
+
+
+docker run -it --network backend_net --rm mongo mongosh mongodb://mongo_container:27017
+
+use mydb
+
+db.test.insertOne({ name: "Docker", type: "Database" })
+
+db.test.find()
+
+
+
+
+
+
+
+
+
