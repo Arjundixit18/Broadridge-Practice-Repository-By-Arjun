@@ -1,11 +1,11 @@
-# Docker Tutorial – Part 5: Volumes, Backups, and Production Practices
+# Docker Tutorial :- Part 5: Volumes, Backups, and Production Practices
 
 ---
 
-## 💾 Docker Volumes – Persistent Storage
+## 💾 Docker Volumes : Persistent Storage
 
 ### Why Volumes?
-Containers are ephemeral—once removed, all data is lost. **Volumes** help persist data independent of container lifecycle.
+Containers are ephemeral once removed, all data is lost. **Volumes** help persist data independent of container lifecycle.
 
 ### Types of Storage:
 | Type         | Mounted From         | Use Case                    |
@@ -84,7 +84,7 @@ node_modules
 docker run -m 512m --cpus="1.0" myapp
 ```
 
-### 5. Set Non-Root User in Dockerfile
+### 5. Set Non Root User in Dockerfile
 ```Dockerfile
 RUN adduser -D myuser
 USER myuser
@@ -111,7 +111,7 @@ HEALTHCHECK CMD curl --fail http://localhost:8080 || exit 1
 # Remove unused containers, networks, images, volumes
 docker system prune -a
 ```
-> Use with caution ⚠️ – this deletes stopped containers, dangling images, and volumes.
+> Use with caution ⚠️  this deletes stopped containers, dangling images, and volumes.
 
 ---
 
