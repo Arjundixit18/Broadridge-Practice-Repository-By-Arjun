@@ -1,6 +1,5 @@
 # 🌐 Broadridge Practice Repository by Arjun Dixit
 
-
 Welcome to the **Broadridge-Practice-Repository-By-Arjun** – a one-stop hub where I document everything I learn while preparing for and aligning with real-world DevOps & Cloud workflows used by companies like **Broadridge Financial Solutions**.
 
 > 💼 Broadridge is a global fintech leader powering decision-making and communication in financial services – so this repo is built to match that scale and precision.
